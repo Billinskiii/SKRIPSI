@@ -1,9 +1,9 @@
-streamlit>=1.0
-torch>=1.10
-torchvision>=0.11
-transformers>=4.0
-pillow>=8.0
-numpy>=1.19
-ultralytics>=8.0
-opencv-python>=4.5  # optional
-matplotlib>=3.3     # optional
+streamlit==1.46.1
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.20
+opencv-python==4.11.0.86
+transformers==4.53.2
+Pillow==11.3.0
+numpy==1.24.3
+pandas==2.0.1
